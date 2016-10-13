@@ -15,5 +15,4 @@ public class JniKit {
      */
     public static native int calculate(int num);
 
-
 }
